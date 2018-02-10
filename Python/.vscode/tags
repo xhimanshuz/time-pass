@@ -1,0 +1,329 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+2darray.py	../2darray.py	1;"	kind:file	line:1
+App	../Temp/npyscreen.py	/^    App = TestApp()$/;"	kind:variable	line:29
+Attack	../wifite.py	/^class Attack(object):$/;"	kind:class	line:2125
+B	../func_fio.py	/^B = '\\033[34m'  # blue$/;"	kind:variable	line:9
+B	../wifite.py	/^B = '\\033[34m'  # blue$/;"	kind:variable	line:106
+Basic_instance.py	../Class/Basic_instance.py	1;"	kind:file	line:1
+BinarySearch	../Data_Structure/binary_search.py	/^class BinarySearch:$/;"	kind:class	line:4
+C	../func_fio.py	/^C = '\\033[36m'  # cyan$/;"	kind:variable	line:11
+C	../wifite.py	/^C = '\\033[36m'  # cyan$/;"	kind:variable	line:108
+CapFile	../wifite.py	/^class CapFile:$/;"	kind:class	line:121
+Client	../wifite.py	/^class Client:$/;"	kind:class	line:148
+ConfirmCorrectPlatform	../wifite.py	/^    def ConfirmCorrectPlatform(self):$/;"	kind:member	line:265
+ConfirmRunningAsRoot	../wifite.py	/^    def ConfirmRunningAsRoot(self):$/;"	kind:member	line:259
+CreateTempFolder	../wifite.py	/^    def CreateTempFolder(self):$/;"	kind:member	line:270
+DIFFERENCE_TABLE.py	../NUMERICAL_METHOD/DIFFERENCE_TABLE.py	1;"	kind:file	line:1
+DN	../wifite.py	/^DN = open(os.devnull, 'w')$/;"	kind:variable	line:112
+Developer	../Class/Basic_instance.py	/^class Developer(Employee):$/;"	kind:class	line:18
+Divided_Difference_Table	../NUMERICAL_METHOD/DIFFERENCE_TABLE.py	/^class Divided_Difference_Table:$/;"	kind:class	line:3
+ERRLOG	../wifite.py	/^ERRLOG = open(os.devnull, 'w')$/;"	kind:variable	line:113
+Editor	../test.py	/^class Editor():$/;"	kind:class	line:4
+Employee	../Class/Basic_instance.py	/^class Employee:$/;"	kind:class	line:3
+EndAttack	../wifite.py	/^    def EndAttack(self):$/;"	kind:member	line:2133
+EndAttack	../wifite.py	/^    def EndAttack(self):$/;"	kind:member	line:2153
+EndAttack	../wifite.py	/^    def EndAttack(self):$/;"	kind:member	line:2687
+EndAttack	../wifite.py	/^    def EndAttack(self):$/;"	kind:member	line:3248
+FileHandling	../Project/nginx4noobs/n4n.py	/^class FileHandling():$/;"	kind:class	line:20
+FileHandling	../Project/nginx4noobs/nginx4noobs.py	/^class FileHandling:$/;"	kind:class	line:86
+G	../func_fio.py	/^G = '\\033[32m'  # green$/;"	kind:variable	line:7
+G	../wifite.py	/^G = '\\033[32m'  # green$/;"	kind:variable	line:104
+GR	../func_fio.py	/^GR = '\\033[37m'  # gray$/;"	kind:variable	line:12
+GR	../wifite.py	/^GR = '\\033[37m'  # gray$/;"	kind:variable	line:109
+LinearSearch	../Data_Structure/linear_search.py	/^class LinearSearch:$/;"	kind:class	line:6
+Manager	../Class/Basic_instance.py	/^class Manager(Employee):$/;"	kind:class	line:27
+N4n	../Project/nginx4noobs/nginx4noobs.py	/^class N4n(FileHandling, SqliteHandling):$/;"	kind:class	line:138
+NFDM_table.py	../Class/NFDM_table.py	1;"	kind:file	line:1
+Newton.py	../Newton.py	1;"	kind:file	line:1
+Nginx4Noobs	../Project/nginx4noobs/n4n.py	/^class Nginx4Noobs():$/;"	kind:class	line:33
+O	../func_fio.py	/^O = '\\033[33m'  # orange$/;"	kind:variable	line:8
+O	../wifite.py	/^O = '\\033[33m'  # orange$/;"	kind:variable	line:105
+OUTLOG	../wifite.py	/^OUTLOG = open(os.devnull, 'w')$/;"	kind:variable	line:114
+P	../func_fio.py	/^P = '\\033[35m'  # purple$/;"	kind:variable	line:10
+P	../wifite.py	/^P = '\\033[35m'  # purple$/;"	kind:variable	line:107
+R	../func_fio.py	/^R = '\\033[31m'  # red$/;"	kind:variable	line:6
+R	../wifite.py	/^R = '\\033[31m'  # red$/;"	kind:variable	line:103
+RUN_CONFIG	../wifite.py	/^    RUN_CONFIG = RunConfiguration()$/;"	kind:variable	line:3532
+RunAttack	../wifite.py	/^    def RunAttack(self):$/;"	kind:member	line:2129
+RunAttack	../wifite.py	/^    def RunAttack(self):$/;"	kind:member	line:2147
+RunAttack	../wifite.py	/^    def RunAttack(self):$/;"	kind:member	line:2681
+RunAttack	../wifite.py	/^    def RunAttack(self):$/;"	kind:member	line:3231
+RunConfiguration	../wifite.py	/^class RunConfiguration:$/;"	kind:class	line:159
+RunEngine	../wifite.py	/^class RunEngine:$/;"	kind:class	line:839
+SqlHandling	../Project/nginx4noobs/n4n.py	/^class SqlHandling():$/;"	kind:class	line:6
+SqliteHandling	../Project/nginx4noobs/nginx4noobs.py	/^class SqliteHandling:$/;"	kind:class	line:15
+Start	../wifite.py	/^    def Start(self):$/;"	kind:member	line:1372
+String.py	../String.py	1;"	kind:file	line:1
+Target	../wifite.py	/^class Target:$/;"	kind:class	line:132
+TestApp	../Temp/npyscreen.py	/^class TestApp(npyscreen.NPSApp):$/;"	kind:class	line:5
+W	../func_fio.py	/^W = '\\033[0m'  # white (normal)$/;"	kind:variable	line:5
+W	../wifite.py	/^W = '\\033[0m'  # white (normal)$/;"	kind:variable	line:102
+WEPAttack	../wifite.py	/^class WEPAttack(Attack):$/;"	kind:class	line:2674
+WPAAttack	../wifite.py	/^class WPAAttack(Attack):$/;"	kind:class	line:2140
+WPSAttack	../wifite.py	/^class WPSAttack(Attack):$/;"	kind:class	line:3225
+__del__	../test.py	/^    def __del__(self):$/;"	kind:member	line:28
+__init__	../Class/Basic_instance.py	/^	def __init__(self, name, lname, payee):$/;"	kind:member	line:4
+__init__	../Class/Basic_instance.py	/^	def __init__(self, name, lname, payee, employee=None):$/;"	kind:member	line:28
+__init__	../Class/Basic_instance.py	/^	def __init__(self, name, lname, payee, language):$/;"	kind:member	line:19
+__init__	../Data_Structure/binary_search.py	/^    def __init__(self, size, n):$/;"	kind:member	line:5
+__init__	../Data_Structure/linear_search.py	/^    def __init__(self, size=None):$/;"	kind:member	line:7
+__init__	../NUMERICAL_METHOD/DIFFERENCE_TABLE.py	/^    def __init__(self):$/;"	kind:member	line:5
+__init__	../Project/nginx4noobs/n4n.py	/^    def __init__(self):$/;"	kind:member	line:34
+__init__	../Project/nginx4noobs/nginx4noobs.py	/^    def __init__(self):$/;"	kind:member	line:139
+__init__	../test.py	/^    def __init__(self, filename):$/;"	kind:member	line:8
+__init__	../wifite.py	/^    def __init__(self):$/;"	kind:member	line:164
+__init__	../wifite.py	/^    def __init__(self, bssid, power, data, channel, encryption, ssid):$/;"	kind:member	line:137
+__init__	../wifite.py	/^    def __init__(self, bssid, station, power):$/;"	kind:member	line:153
+__init__	../wifite.py	/^    def __init__(self, filename, ssid, bssid):$/;"	kind:member	line:126
+__init__	../wifite.py	/^    def __init__(self, iface, target, clients, config):$/;"	kind:member	line:2141
+__init__	../wifite.py	/^    def __init__(self, iface, target, clients, config):$/;"	kind:member	line:2675
+__init__	../wifite.py	/^    def __init__(self, iface, target, config):$/;"	kind:member	line:3226
+__init__	../wifite.py	/^    def __init__(self, run_config):$/;"	kind:member	line:840
+__metaclass__	../wifite.py	/^    __metaclass__ = abc.ABCMeta$/;"	kind:variable	line:2126
+a.py	../a.py	1;"	kind:file	line:1
+add_commas	../wifite.py	/^def add_commas(n):$/;"	kind:function	line:2655
+add_emp	../Class/Basic_instance.py	/^	def add_emp(self, emp):$/;"	kind:member	line:34
+age	../String.py	/^age = 21$/;"	kind:variable	line:3
+age	../func_fio.py	/^    age = int(age)$/;"	kind:variable	line:47
+algo	../Data_Structure/binary_search.py	/^    def algo(self):$/;"	kind:member	line:14
+algo	../Data_Structure/linear_search.py	/^    def algo(self):$/;"	kind:member	line:13
+algo	../NUMERICAL_METHOD/DIFFERENCE_TABLE.py	/^    def algo(self):$/;"	kind:member	line:54
+analyze_capfile	../wifite.py	/^    def analyze_capfile(self, capfile):$/;"	kind:member	line:1580
+ao	../array_full.py	/^def ao():$/;"	kind:function	line:6
+arm	../armstrong.py	/^def arm(n):$/;"	kind:function	line:3
+arm	../armstrong_finder.py	/^def arm(n):$/;"	kind:function	line:7
+armstrong.py	../armstrong.py	1;"	kind:file	line:1
+armstrong_finder.py	../armstrong_finder.py	1;"	kind:file	line:1
+array	../array.py	/^array = []$/;"	kind:variable	line:2
+array.py	../array.py	1;"	kind:file	line:1
+array_full.py	../array_full.py	1;"	kind:file	line:1
+attack_interrupted_prompt	../wifite.py	/^def attack_interrupted_prompt():$/;"	kind:function	line:2084
+attack_wep	../wifite.py	/^    def attack_wep(self):$/;"	kind:member	line:2693
+attack_wps	../wifite.py	/^    def attack_wps(self):$/;"	kind:member	line:3377
+attack_wps_pixie	../wifite.py	/^    def attack_wps_pixie(self):$/;"	kind:member	line:3265
+backup	../Project/nginx4noobs/nginx4noobs.py	/^    def backup(self, file):$/;"	kind:member	line:133
+banner	../wifite.py	/^def banner(RUN_CONFIG):$/;"	kind:function	line:1670
+binary_search.py	../Data_Structure/binary_search.py	1;"	kind:file	line:1
+build_opt_parser	../wifite.py	/^    def build_opt_parser(self):$/;"	kind:member	line:632
+cc	../array_full.py	/^def cc():$/;"	kind:function	line:11
+college	../String.py	/^college = "IMS, Noida"$/;"	kind:variable	line:5
+confFileCheck	../Project/nginx4noobs/n4n.py	/^    def confFileCheck(self):$/;"	kind:member	line:70
+createTable	../Project/nginx4noobs/nginx4noobs.py	/^    def createTable(self):$/;"	kind:member	line:18
+cursor	../sqltest.py	/^cursor = db.cursor()$/;"	kind:variable	line:9
+dataInput	../Project/nginx4noobs/nginx4noobs.py	/^    def dataInput(self):$/;"	kind:function	line:230
+db	../sqltest.py	/^db = sqlite3.connect('dbname.db')$/;"	kind:variable	line:5
+del_a	../array_full.py	/^def del_a():$/;"	kind:function	line:9
+deleteFile	../Project/nginx4noobs/nginx4noobs.py	/^    def deleteFile(self, file):$/;"	kind:member	line:88
+disable_monitor_mode	../wifite.py	/^    def disable_monitor_mode(self):$/;"	kind:member	line:904
+displayServerDetail	../Project/nginx4noobs/nginx4noobs.py	/^    def displayServerDetail(self, list):$/;"	kind:function	line:199
+displayServerList	../Project/nginx4noobs/nginx4noobs.py	/^    def displayServerList(self, tuple):$/;"	kind:function	line:211
+email1	../sqltest.py	/^email1 = 'user@example.com'$/;"	kind:variable	line:18
+email2	../sqltest.py	/^email2 = 'johndoe@example.com'$/;"	kind:variable	line:25
+enable_monitor_mode	../wifite.py	/^    def enable_monitor_mode(self, iface):$/;"	kind:member	line:881
+enter_filename	../tests.py	/^def enter_filename():$/;"	kind:function	line:30
+existCheck	../Project/nginx4noobs/nginx4noobs.py	/^    def existCheck(self, file):$/;"	kind:member	line:109
+exist_checking	../tests.py	/^def exist_checking(filename):$/;"	kind:function	line:13
+exit_gracefully	../wifite.py	/^    def exit_gracefully(self, code=0):$/;"	kind:member	line:322
+exiting	../tests.py	/^def exiting(string, ofile):$/;"	kind:function	line:22
+fact	../NUMERICAL_METHOD/DIFFERENCE_TABLE.py	/^    def fact(self, i):$/;"	kind:member	line:21
+fact	../Newton.py	/^def fact(n, i):$/;"	kind:function	line:2
+fileDrop	../Project/nginx4noobs/n4n.py	/^    def fileDrop(self):$/;"	kind:member	line:30
+fileExist	../Project/nginx4noobs/n4n.py	/^    def fileExist(self):$/;"	kind:member	line:27
+fileRead	../Project/nginx4noobs/n4n.py	/^    def fileRead(self):$/;"	kind:member	line:24
+fileWrite	../Project/nginx4noobs/n4n.py	/^    def fileWrite(self):$/;"	kind:member	line:21
+file_opened	../tests.py	/^file_opened = False$/;"	kind:variable	line:5
+fileio.py	../fileio.py	1;"	kind:file	line:1
+fileio_copy.py	../fileio_copy.py	1;"	kind:file	line:1
+fileio_truncate.py	../fileio_truncate.py	1;"	kind:file	line:1
+fileio_ui.py	../fileio_ui.py	1;"	kind:file	line:1
+filename	../tests.py	/^filename = ' '$/;"	kind:variable	line:6
+first.py	../GTK3/first.py	1;"	kind:file	line:1
+first.py	../opencv/first.py	1;"	kind:file	line:1
+firstTime	../Project/nginx4noobs/nginx4noobs.py	/^    def firstTime(self):$/;"	kind:function	line:323
+flush	../Project/nginx4noobs/nginx4noobs.py	/^    def flush(self):$/;"	kind:member	line:157
+fout	../func_fio.py	/^def fout(fname, lname, age):$/;"	kind:function	line:14
+fulldetail	../Class/Basic_instance.py	/^	def fulldetail(self):$/;"	kind:member	line:13
+fulldetail	../Class/Basic_instance.py	/^	def fulldetail(self):$/;"	kind:member	line:22
+fullname	../Class/Basic_instance.py	/^	def fullname(self):$/;"	kind:member	line:10
+func_fio.py	../func_fio.py	1;"	kind:file	line:1
+generate_random_mac	../wifite.py	/^def generate_random_mac(old_mac):$/;"	kind:function	line:1949
+get_aireplay_command	../wifite.py	/^    def get_aireplay_command(self, iface, attack_num, target, clients, client_mac):$/;"	kind:member	line:3122
+get_bssid_from_cap	../wifite.py	/^def get_bssid_from_cap(essid, capfile):$/;"	kind:function	line:2039
+get_essid_from_cap	../wifite.py	/^def get_essid_from_cap(bssid, capfile):$/;"	kind:function	line:2016
+get_iface	../wifite.py	/^    def get_iface(self):$/;"	kind:member	line:963
+get_mac_address	../wifite.py	/^def get_mac_address(iface):$/;"	kind:function	line:1934
+get_revision	../wifite.py	/^def get_revision():$/;"	kind:function	line:1686
+hair_color	../String.py	/^hair_color = "Black"$/;"	kind:variable	line:4
+handle_args	../wifite.py	/^    def handle_args(self):$/;"	kind:member	line:342
+has_handshake	../wifite.py	/^    def has_handshake(self, target, capfile):$/;"	kind:member	line:2498
+has_handshake_aircrack	../wifite.py	/^    def has_handshake_aircrack(self, target, capfile):$/;"	kind:member	line:2485
+has_handshake_cowpatty	../wifite.py	/^    def has_handshake_cowpatty(self, target, capfile, nonstrict=True):$/;"	kind:member	line:2432
+has_handshake_pyrit	../wifite.py	/^    def has_handshake_pyrit(self, target, capfile):$/;"	kind:member	line:2457
+has_handshake_tshark	../wifite.py	/^    def has_handshake_tshark(self, target, capfile):$/;"	kind:member	line:2341
+height	../String.py	/^height = 5.4$/;"	kind:variable	line:6
+help	../wifite.py	/^def help():$/;"	kind:function	line:1714
+i	../while.py	/^i = 0$/;"	kind:variable	line:2
+ia	../array_full.py	/^def ia():$/;"	kind:function	line:3
+img	../opencv/first.py	/^img = cv2.imread('ad.jpg',0)$/;"	kind:variable	line:3
+initial_check	../wifite.py	/^    def initial_check(self):$/;"	kind:member	line:844
+inp	../Data_Structure/binary_search.py	/^    def inp(self):$/;"	kind:member	line:32
+inp	../Data_Structure/linear_search.py	/^    def inp(self):$/;"	kind:member	line:24
+inp	../func_fio.py	/^def inp():$/;"	kind:function	line:38
+input	../NUMERICAL_METHOD/DIFFERENCE_TABLE.py	/^    def input(self):$/;"	kind:member	line:80
+input_file	../test.py	/^    def input_file(self, string):$/;"	kind:member	line:16
+input_string	../test.py	/^    def input_string():$/;"	kind:member	line:5
+input_string	../test.py	/^    def input_string(self):$/;"	kind:member	line:21
+input_string	../tests.py	/^def input_string(filename):$/;"	kind:function	line:34
+is_pixie_supported	../wifite.py	/^    def is_pixie_supported(self):$/;"	kind:member	line:3254
+k	../opencv/first.py	/^k = cv2.waitKey(0) & 0xFF$/;"	kind:variable	line:5
+l	../Class/NFDM_table.py	/^l=[]                                                #use list for storing 2D array$/;"	kind:variable	line:2
+line1	../fileio_ui.py	/^line1 = raw_input("Enter Text to Line 1: ")$/;"	kind:variable	line:9
+line2	../fileio_ui.py	/^line2 = raw_input("Enter Text to Line 2: ")$/;"	kind:variable	line:10
+linear_search	../linear_search.py	/^def linear_search(n):$/;"	kind:function	line:3
+linear_search.py	../Data_Structure/linear_search.py	1;"	kind:file	line:1
+linear_search.py	../linear_search.py	1;"	kind:file	line:1
+listToString	../Project/nginx4noobs/nginx4noobs.py	/^    def listToString(self, list):$/;"	kind:function	line:222
+load_cracked	../wifite.py	/^    def load_cracked(self):$/;"	kind:member	line:287
+load_old_cracked	../wifite.py	/^    def load_old_cracked(self):$/;"	kind:member	line:302
+mac_anonymize	../wifite.py	/^def mac_anonymize(iface):$/;"	kind:function	line:1967
+mac_change_back	../wifite.py	/^def mac_change_back():$/;"	kind:function	line:1997
+main	../Data_Structure/binary_search.py	/^def main():$/;"	kind:function	line:37
+main	../Data_Structure/linear_search.py	/^def main():$/;"	kind:function	line:30
+main	../NUMERICAL_METHOD/DIFFERENCE_TABLE.py	/^def main():$/;"	kind:function	line:93
+main	../Newton.py	/^def main():$/;"	kind:function	line:9
+main	../Temp/npyscreen.py	/^    def main(self):$/;"	kind:member	line:6
+main	../array_full.py	/^def main():$/;"	kind:function	line:27
+main	../linear_search.py	/^def main():$/;"	kind:function	line:12
+main	../public_ip_fetch.py	/^def main():$/;"	kind:function	line:13
+main	../test.py	/^def main():$/;"	kind:function	line:37
+main	../tests.py	/^def main():$/;"	kind:function	line:57
+matrix	../2darray.py	/^matrix = []$/;"	kind:variable	line:3
+menu	../Project/nginx4noobs/n4n.py	/^    def menu(self):$/;"	kind:member	line:95
+menu	../Project/nginx4noobs/nginx4noobs.py	/^    def menu(self):$/;"	kind:function	line:302
+mukul	../Class/Basic_instance.py	/^mukul = Manager("Mukul","Aswal",100000, [rahul])$/;"	kind:variable	line:54
+n	../Class/NFDM_table.py	/^n=int(input("Enter N for N x N matrix : "))         #3 here$/;"	kind:variable	line:1
+n	../armstrong.py	/^    n = int(n)$/;"	kind:variable	line:17
+n	../armstrong.py	/^    n = int(raw_input(">> "))$/;"	kind:variable	line:21
+n	../armstrong_finder.py	/^    n = int(raw_input(">> "))$/;"	kind:variable	line:24
+n	../array.py	/^    n = int(raw_input(">> "))$/;"	kind:variable	line:5
+n	../opencv/first.py	/^    n = cv2.imread('copied.bmp', 1)$/;"	kind:variable	line:10
+n	../reverse.py	/^    n = int(n)$/;"	kind:variable	line:5
+n	../reverse.py	/^    n = int(raw_input(">> "))$/;"	kind:variable	line:8
+n	../table.py	/^    n = int(raw_input(">> "))$/;"	kind:variable	line:14
+n	../while.py	/^n = int(raw_input(">> "))$/;"	kind:variable	line:1
+n4n.py	../Project/nginx4noobs/n4n.py	1;"	kind:file	line:1
+nDisplay	../Project/nginx4noobs/nginx4noobs.py	/^    def nDisplay(self):$/;"	kind:member	line:182
+nEdit	../Project/nginx4noobs/n4n.py	/^    def nEdit(self):$/;"	kind:member	line:46
+nExit	../Project/nginx4noobs/n4n.py	/^    def nExit(self):$/;"	kind:member	line:79
+nExit	../Project/nginx4noobs/nginx4noobs.py	/^    def nExit(self):$/;"	kind:member	line:178
+nHelp	../Project/nginx4noobs/n4n.py	/^    def nHelp(self):$/;"	kind:member	line:76
+nHelp	../Project/nginx4noobs/nginx4noobs.py	/^    def nHelp():$/;"	kind:member	line:175
+nModify	../Project/nginx4noobs/nginx4noobs.py	/^    def nModify(self):$/;"	kind:function	line:299
+nRead	../Project/nginx4noobs/n4n.py	/^    def nRead(self):$/;"	kind:member	line:43
+nRead	../Project/nginx4noobs/nginx4noobs.py	/^    def nRead(self):$/;"	kind:function	line:291
+nRemove	../Project/nginx4noobs/n4n.py	/^    def nRemove(self):$/;"	kind:member	line:49
+nRemove	../Project/nginx4noobs/nginx4noobs.py	/^    def nRemove(self):$/;"	kind:function	line:281
+nWrite	../Project/nginx4noobs/n4n.py	/^    def nWrite(self):$/;"	kind:member	line:37
+nWrite	../Project/nginx4noobs/nginx4noobs.py	/^    def nWrite(self):$/;"	kind:function	line:275
+name	../String.py	/^name = "Himanshu"$/;"	kind:variable	line:2
+name1	../sqltest.py	/^name1 = 'Andres'$/;"	kind:variable	line:16
+name2	../sqltest.py	/^name2 = 'John'$/;"	kind:variable	line:23
+new	../String.py	/^new = "My name is %s ::"$/;"	kind:variable	line:15
+new2	../String.py	/^new2 = "\\n \/n My age is %d ::"$/;"	kind:variable	line:16
+new3	../String.py	/^new3 = "My height is %f and \\n is %s ::"$/;"	kind:variable	line:17
+nginx4noobs.py	../Project/nginx4noobs/nginx4noobs.py	1;"	kind:file	line:1
+nginxCheck	../Project/nginx4noobs/n4n.py	/^    def nginxCheck(self):$/;"	kind:member	line:67
+nginxConfFormat	../Project/nginx4noobs/nginx4noobs.py	/^    def nginxConfFormat(self):$/;"	kind:function	line:348
+nginxConfLocation	../Project/nginx4noobs/nginx4noobs.py	/^    def nginxConfLocation(self):$/;"	kind:member	line:114
+nginxFormat	../Project/nginx4noobs/nginx4noobs.py	/^    def nginxFormat(self):$/;"	kind:function	line:332
+nginxReboot	../Project/nginx4noobs/n4n.py	/^    def nginxReboot(self):$/;"	kind:member	line:73
+npyscreen.py	../Temp/npyscreen.py	1;"	kind:file	line:1
+ofile	../fileio_truncate.py	/^ofile = open(filename, "r")$/;"	kind:variable	line:8
+ofile	../fileio_truncate.py	/^ofile = open(filename, "w")$/;"	kind:variable	line:5
+ofile	../fileio_ui.py	/^ofile = open(filename, "r")$/;"	kind:variable	line:13
+ofile	../fileio_ui.py	/^ofile = open(filename, "r+w+")$/;"	kind:variable	line:7
+ofile	../tests.py	/^ofile = ""$/;"	kind:variable	line:7
+ofilein	../fileio_copy.py	/^ofilein = open(filenamein, "r")$/;"	kind:variable	line:8
+ofileout	../fileio_copy.py	/^ofileout = open(filenameout, "w")$/;"	kind:variable	line:10
+openfile	../fileio.py	/^openfile = open(filename)$/;"	kind:variable	line:7
+openfile	../tests.py	/^def openfile(filename):$/;"	kind:function	line:8
+out	../Data_Structure/binary_search.py	/^    def out(self):$/;"	kind:member	line:11
+out	../func_fio.py	/^def out(fname, lname, age):$/;"	kind:function	line:30
+output	../NUMERICAL_METHOD/DIFFERENCE_TABLE.py	/^    def output(self):$/;"	kind:member	line:27
+parm	../armstrong_finder.py	/^def parm(n):$/;"	kind:function	line:3
+parse_csv	../wifite.py	/^    def parse_csv(self, filename):$/;"	kind:member	line:1520
+password1	../sqltest.py	/^password1 = '12345'$/;"	kind:variable	line:21
+password2	../sqltest.py	/^password2 = 'abcdef'$/;"	kind:variable	line:26
+phone1	../sqltest.py	/^phone1 = '3366858'$/;"	kind:variable	line:17
+phone2	../sqltest.py	/^phone2 = '5557241'$/;"	kind:variable	line:24
+print_and_exec	../wifite.py	/^def print_and_exec(cmd):$/;"	kind:function	line:1839
+program_exists	../wifite.py	/^def program_exists(program):$/;"	kind:function	line:1890
+public_ip_fetch.py	../public_ip_fetch.py	1;"	kind:file	line:1
+r	../reverse.py	/^    r = n%10$/;"	kind:variable	line:11
+rahul	../Class/Basic_instance.py	/^rahul = Developer("Rahul", "Aggarwal", 100000, "Java")$/;"	kind:variable	line:51
+readFile	../Project/nginx4noobs/nginx4noobs.py	/^    def readFile(self, file):$/;"	kind:member	line:104
+reloadNginx	../Project/nginx4noobs/nginx4noobs.py	/^    def reloadNginx(self):$/;"	kind:function	line:225
+remove_airodump_files	../wifite.py	/^def remove_airodump_files(prefix):$/;"	kind:function	line:1856
+remove_emp	../Class/Basic_instance.py	/^	def remove_emp(self, emp):$/;"	kind:member	line:38
+remove_file	../wifite.py	/^def remove_file(filename):$/;"	kind:function	line:1880
+rename	../wifite.py	/^def rename(old, new):$/;"	kind:function	line:1650
+rev	../reverse.py	/^    rev = rev * 10 + r$/;"	kind:variable	line:12
+rev	../reverse.py	/^rev = 0$/;"	kind:variable	line:2
+reverse.py	../reverse.py	1;"	kind:file	line:1
+rootCheck	../Project/nginx4noobs/n4n.py	/^    def rootCheck(self):$/;"	kind:member	line:52
+rootCheck	../Project/nginx4noobs/nginx4noobs.py	/^    def rootCheck(self):$/;"	kind:function	line:351
+row	../2darray.py	/^    row=[]$/;"	kind:variable	line:6
+row_list	../Class/NFDM_table.py	/^  row_list=[]                                      #temporary list to store the row$/;"	kind:variable	line:6
+rtl8187_fix	../wifite.py	/^    def rtl8187_fix(self, iface):$/;"	kind:member	line:915
+save_cracked	../wifite.py	/^    def save_cracked(self, target):$/;"	kind:member	line:277
+savefile	../tests.py	/^def savefile(ofile, string):$/;"	kind:function	line:16
+scan	../wifite.py	/^    def scan(self, channel=0, iface='', tried_rtl8187_fix=False):$/;"	kind:member	line:1049
+sec_to_hms	../wifite.py	/^def sec_to_hms(sec):$/;"	kind:function	line:1905
+send_interrupt	../wifite.py	/^def send_interrupt(process):$/;"	kind:function	line:1917
+showemployee	../Class/Basic_instance.py	/^	def showemployee(self):$/;"	kind:member	line:44
+size	../2darray.py	/^size = int(input("Enter Size: "))$/;"	kind:variable	line:2
+size	../array.py	/^size = int(raw_input("Enter Size of an Array \\n>> "))$/;"	kind:variable	line:1
+sqlConnect	../Project/nginx4noobs/n4n.py	/^    def sqlConnect(self):$/;"	kind:member	line:7
+sqlConnect	../Project/nginx4noobs/nginx4noobs.py	/^    def sqlConnect(self):$/;"	kind:function	line:33
+sqlGet	../Project/nginx4noobs/n4n.py	/^    def sqlGet(self):$/;"	kind:member	line:13
+sqlToTuble	../Project/nginx4noobs/n4n.py	/^    def sqlToTuble(self):$/;"	kind:member	line:16
+sqlWrite	../Project/nginx4noobs/n4n.py	/^    def sqlWrite(self):$/;"	kind:member	line:10
+sqliteDrop	../Project/nginx4noobs/nginx4noobs.py	/^    def sqliteDrop(self, instance):$/;"	kind:function	line:54
+sqliteEdit	../Project/nginx4noobs/nginx4noobs.py	/^    def sqliteEdit(self):$/;"	kind:function	line:51
+sqliteWrite	../Project/nginx4noobs/nginx4noobs.py	/^    def sqliteWrite(self, tuples):$/;"	kind:function	line:42
+sqltest.py	../sqltest.py	1;"	kind:file	line:1
+start	../Project/nginx4noobs/n4n.py	/^    def start(self):$/;"	kind:member	line:114
+start	../Project/nginx4noobs/nginx4noobs.py	/^    def start(self):$/;"	kind:function	line:328
+strip_handshake	../wifite.py	/^    def strip_handshake(self, capfile):$/;"	kind:member	line:2532
+switch_cs	../array_full.py	/^def switch_cs():$/;"	kind:function	line:15
+sysCheck	../Project/nginx4noobs/n4n.py	/^    def sysCheck(self):$/;"	kind:member	line:60
+sysCheck	../Project/nginx4noobs/nginx4noobs.py	/^    def sysCheck(self):$/;"	kind:function	line:358
+table	../table.py	/^def table(n):$/;"	kind:function	line:3
+table.py	../table.py	1;"	kind:file	line:1
+test.py	../test.py	1;"	kind:file	line:1
+test2.py	../Class/test2.py	1;"	kind:file	line:1
+tests.py	../tests.py	1;"	kind:file	line:1
+tupleCreator	../Project/nginx4noobs/nginx4noobs.py	/^    def tupleCreator(self):$/;"	kind:function	line:64
+tupleFromSql	../Project/nginx4noobs/nginx4noobs.py	/^    def tupleFromSql(self):$/;"	kind:function	line:68
+tupleToData	../Project/nginx4noobs/nginx4noobs.py	/^    def tupleToData(self, tuple):$/;"	kind:function	line:74
+tupleToList	../Project/nginx4noobs/nginx4noobs.py	/^    def tupleToList(self, tuple):$/;"	kind:function	line:205
+ujjawal	../Class/Basic_instance.py	/^ujjawal = Developer("Kumar", "Ujjawal", 100000, "Swift")$/;"	kind:variable	line:52
+upgrade	../wifite.py	/^    def upgrade(self):$/;"	kind:member	line:768
+ux	../NUMERICAL_METHOD/DIFFERENCE_TABLE.py	/^    def ux(self, i, u):$/;"	kind:member	line:10
+ux	../Newton.py	/^def ux(u, i):$/;"	kind:function	line:5
+valueInit	../Project/nginx4noobs/n4n.py	/^    def valueInit(self):$/;"	kind:member	line:82
+wep_fake_auth	../wifite.py	/^    def wep_fake_auth(self, iface, target, time_to_display):$/;"	kind:member	line:3073
+wep_send_deauths	../wifite.py	/^    def wep_send_deauths(self, iface, target, clients):$/;"	kind:member	line:3200
+while.py	../while.py	1;"	kind:file	line:1
+wifite.py	../wifite.py	1;"	kind:file	line:1
+win	../GTK3/first.py	/^win = Gtk.Window()$/;"	kind:variable	line:6
+wpa_crack	../wifite.py	/^def wpa_crack(capfile, RUN_CONFIG):$/;"	kind:function	line:2564
+wpa_get_handshake	../wifite.py	/^    def wpa_get_handshake(self):$/;"	kind:member	line:2159
+wps_check_targets	../wifite.py	/^def wps_check_targets(targets, cap_file, verbose=True):$/;"	kind:function	line:1797
+writeFile	../Project/nginx4noobs/nginx4noobs.py	/^    def writeFile(self, file, string):$/;"	kind:member	line:99
+write_file	../public_ip_fetch.py	/^def write_file(filename):$/;"	kind:function	line:3
